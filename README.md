@@ -20,4 +20,4 @@ python generate.py --count 10  # generate 10 wallets
 
 ## License
 MIT
-<!-- updated: 2024-11-28-r01 -->
+<!-- updated: 2024-11-29-r01 -->
